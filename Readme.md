@@ -29,8 +29,8 @@ Compute a Linear Regression for Each relationship
 Create a map that shows the humidity for various cities.
 
 Find cities with ideal weather conditions:
-- A max temperature lower than 27 degrees but higher than 21
+- A max temperature lower than 28 degrees but higher than 22
 - Wind speed less than 4.5 m/s
-- Zero cloudiness
+- Cloudiness and Humidity less than 67%
 
 Create a map with of the above cities and find a hotel within 10,000 m of the coordinates. Display the hotel information.
